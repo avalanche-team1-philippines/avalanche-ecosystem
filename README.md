@@ -1,6 +1,7 @@
 # Avalanche Ecosystem
 
-Welcome to the **Avalanche Team1 PH** Resource Repository.  
+Welcome to the **Avalanche Team1 PH** Resource Repository.
+
 This repository serves as the **central hub of links, guides, and tools** curated to support all members of Team1 PH in understanding, building, and contributing within the **Avalanche ecosystem**.
 
 ## 🧭 Core Avalanche Resources
